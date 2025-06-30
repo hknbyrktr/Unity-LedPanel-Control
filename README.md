@@ -55,7 +55,7 @@ The system provides a customizable display experience with support for **text re
 
 📷 Wiring diagram between ESP32 and the LED panel:
 
-<img src="Images/WiringDiagram.jpg" alt="WiringDiagram.jpg"/>
+<img src="Images/WiringDiagram.png" alt="WiringDiagram.png"/>
 
 ---
 
@@ -97,13 +97,17 @@ The ESP32 parses this data and displays the appropriate animation and text on th
 
 ---
 
-## 📸 Screenshots
+## 📸 Images
 
-<img src="Images/ScrollingText.jpg" alt="ScrollingText.jpg" width="400"/>
-<img src="Images/TransitionAnimation_1.jpg" alt="TransitionAnimation_1.jpg" width="400"/>
-<img src="Images/FixedText.jpg" alt="FixedText.jpg" width="400"/>
-<img src="Images/TransitionAnimation_2.jpg" alt="TransitionAnimation_2.jpg" width="400"/>
-<img src="Images/Clock.jpg" alt="Clock.jpg" width="400"/>
+<img src="Images/Screenshot_1.jpg" alt="Screenshot_1.jpg" width="400"/>
+<img src="Images/Screenshot_2.jpg" alt="Screenshot_2.jpg" width="400"/>
+<img src="Images/Screenshot_3.jpg" alt="Screenshot_3.jpg" width="400"/>
+
+<img src="Images/ScrollingText.jpg" alt="ScrollingText.jpg"/>
+<img src="Images/TransitionAnimation_1.jpg" alt="TransitionAnimation_1.jpg" />
+<img src="Images/FixedText.jpg" alt="FixedText.jpg"/>
+<img src="Images/TransitionAnimation_2.jpg" alt="TransitionAnimation_2.jpg" />
+<img src="Images/Clock.jpg" alt="Clock.jpg"/>
 
 ---
 
@@ -125,6 +129,7 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 - For Unity Android builds, remember to enable the required Bluetooth permissions.
 - For more details on the Bluetooth package, visit [BlueUnity](https://github.com/bentalebahmed/BlueUnity).
+- Of course there are things to fix in the app. For example: The intro animation was created by combining about 150 images in Unity, instead it can be done with a video creator app for a 25-30mb saving. Since this was my school assignment I did the first thing that came to my mind 😁
 
 ---
 
