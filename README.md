@@ -129,7 +129,7 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 - For Unity Android builds, remember to enable the required Bluetooth permissions.
 - For more details on the Bluetooth package, visit [BlueUnity](https://github.com/bentalebahmed/BlueUnity).
-- Of course there are things to fix in the app. For example: The intro animation was created by combining about 150 images in Unity, instead it can be done with a video creator app for a 25-30mb saving. Since this was my school assignment I did the first thing that came to my mind 😁
+- Of course there are things to fix in the app. For example: The intro animation was created by combining about 150 images in Unity, instead it can be done with a video creator app for a 25-30mb saving. Since this was my school assignment I did the first thing that came to my mind.
 
 ---
 
